@@ -4,3 +4,5 @@ Here is a change to the README but from the master branch.
 Another change on master.
 Change, originally made on the test-git-branches branch.
 Another change on the test-git-branches branch.
+
+Testing simultaneous updates on two feature branches (ft-testFeature and ft-testFeature2).
