@@ -5,3 +5,4 @@ Commit to establish the integration branch.
 Work on feature 2 (ft-2)
 Work on feature 1 (ft-1).
 Work on feature 3 (ft-3) following the rebase of Integration.
+This is a change from r1 using a branch (branchAtR1) created post-hoc for that purpose.
