@@ -4,3 +4,4 @@ Change to the old master code (a release) with a hotfix (hf-A).
 Commit to establish the integration branch.
 Work on feature 2 (ft-2)
 Work on feature 1 (ft-1).
+Work on feature 3 (ft-3) following the rebase of Integration.
