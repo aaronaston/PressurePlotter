@@ -1,11 +1,3 @@
 Scripts to collect and chart pressure data.  Collection from an iOS device (I use my iPad Pro).
 
-Here is a change to the README but from the master branch.
-Another change on master.
-Change, originally made on the test-git-branches branch.
-Another change on the test-git-branches branch.
-Suppose master moves ahead too.
-
-Now testing feature development using ft-testFeature.
-
-Testing simultaneous updates on two feature branches (ft-testFeature and ft-testFeature2).
+Commit to establish the integration branch.
