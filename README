@@ -9,3 +9,5 @@ Suppose master moves ahead too.
 Now testing feature development using ft-testFeature.
 
 Testing simultaneous updates on two feature branches (ft-testFeature and ft-testFeature2).
+
+Change to the old master code (a release) with a hotfix (hf-A).
